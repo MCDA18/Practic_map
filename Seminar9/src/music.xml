@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE musikbibliothek SYSTEM "musik.dtd">
+
+<musikbibliothek ersteller="Darius">
+    <album genre="x" title="mega title">
+        <band >My band</band>
+        <tracks>
+            <song>song1</song>
+            <song>song2</song>
+            <song>song3</song>
+            <song>song4</song>
+        </tracks>
+    </album>
+    <album genre="x" title="super title">
+        <band >My band 2</band>
+        <tracks>
+            <song>song1</song>
+            <song>song2</song>
+            <song>song3</song>
+            <song>song4</song>
+        </tracks>
+    </album>
+</musikbibliothek>
